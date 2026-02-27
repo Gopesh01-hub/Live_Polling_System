@@ -25,7 +25,8 @@ The platform allows a teacher to create live, time-bound polls and push them to 
 
 ### 1. Role Selection & Student Join
 > Clean and intuitive onboarding for both teachers and students.
-![Role Selection Interface](image.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49568537-48e1-4312-9e67-e2fa111100d7" />
+
 
 ### 2. Teacher Dashboard (Create Poll)
 > Where the teacher drafts the question, sets the timer, and manages the classroom.
