@@ -30,15 +30,18 @@ The platform allows a teacher to create live, time-bound polls and push them to 
 
 ### 2. Teacher Dashboard (Create Poll)
 > Where the teacher drafts the question, sets the timer, and manages the classroom.
-![Teacher Dashboard](image-1.png)
+<img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/fe542976-6383-4526-8c26-b648b351aacb" />
+
 
 ### 3. Student Waiting & Voting View
 > The student interface showing the active timer and poll options.
-![Student Voting Interface](image-2.png)
+<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/7f9f2928-f863-423b-a086-e6dd43b84716" />
+
 
 ### 4. Real-Time Results & Chat
 > The post-poll results view alongside the live chat and participant sidebar.
-![Results and Chat](image-3.png)
+<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/821d41cc-0ad9-4de6-a400-68d874467a0a" />
+
 
 ---
 
