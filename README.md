@@ -62,6 +62,70 @@ The platform allows a teacher to create live, time-bound polls and push them to 
 
 ---
 
+## 📂 Folder Structure
+
+```text
+live_polling_system/
+├── backend/
+│   ├── src/
+│   │   ├── controllers/
+│   │   │   └── pollController.ts
+│   │   ├── models/
+│   │   │   ├── Poll.ts
+│   │   │   └── Vote.ts
+│   │   ├── routes/
+│   │   │   └── pollRoutes.ts
+│   │   ├── services/
+│   │   │   └── pollService.ts
+│   │   ├── sockets/
+│   │   │   └── pollSocket.ts
+│   │   └── server.ts
+│   ├── .env
+│   ├── package-lock.json
+│   ├── package.json
+│   └── tsconfig.json
+├── frontend/
+│   ├── public/
+│   │   └── vite.svg
+│   ├── src/
+│   │   ├── assets/
+│   │   │   └── react.svg
+│   │   ├── hooks/
+│   │   │   ├── usePollTimer.ts
+│   │   │   └── useSocket.ts
+│   │   ├── pages/
+│   │   │   ├── HistoryPage.tsx
+│   │   │   ├── KickedPage.tsx
+│   │   │   ├── ResultsPage.tsx
+│   │   │   ├── RoleSelectPage.tsx
+│   │   │   ├── StudentJoinPage.tsx
+│   │   │   ├── TeacherCreatePage.tsx
+│   │   │   ├── VotePage.tsx
+│   │   │   └── WaitingPage.tsx
+│   │   ├── services/
+│   │   │   └── socket.ts
+│   │   ├── types/
+│   │   │   └── poll.ts
+│   │   ├── App.css
+│   │   ├── App.tsx
+│   │   ├── index.css
+│   │   └── main.tsx
+│   ├── .gitignore
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── README.md
+│   ├── tailwind.config.js
+│   ├── tsconfig.app.json
+│   ├── tsconfig.json
+│   ├── tsconfig.node.json
+│   └── vite.config.ts
+├── .gitignore
+└── README.md
+```
+
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally on your machine.
