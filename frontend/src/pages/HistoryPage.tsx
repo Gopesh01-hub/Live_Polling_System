@@ -7,7 +7,7 @@ export default function HistoryPage() {
 
   useEffect(() => {
     axios
-      .get("http://localhost:5000/api/polls/history")
+      .get("https://live-polling-system-dema.onrender.com/api/polls/history")
       .then(res => setHistory(res.data));
   }, []);
 
